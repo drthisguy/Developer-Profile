@@ -2,6 +2,7 @@ My Portfolio Website
 
 
 # Homework-7
+<<<<<<< HEAD
 homework 1, 2 and now 7.
 
 
@@ -62,3 +63,11 @@ jQuery Docs
 CSS Tricks.
 
 
+=======
+Portfolio Overhaul.
+
+
+This repo was moved to my main Github repo for its URL. 
+
+See:  https://github.com/drthisguy/drthisguy.github.io
+>>>>>>> 3bf8d4e415310c07b3b55c7796613a270af05215
